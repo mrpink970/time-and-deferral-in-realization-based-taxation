@@ -1,123 +1,65 @@
-# FAQ — Core (Deferral Pricing)
+### FAQ — Core (Deferral Pricing)
 
-## What problem does this framework address?
+**Framework:** Time and Deferral in Realization-Based Taxation (Time Isn’t Free) 
 
-Modern tax systems allow very large amounts of wealth to grow indefinitely without being taxed, even while that wealth is used to fund spending through borrowing, pledges, or other forms of economic access. This framework addresses the gap between legal realization and practical economic use by pricing the privilege of deferring realization over time.
+### What problem does this framework address?
 
----
+Modern tax systems allow very large concentrations of wealth to grow indefinitely without being taxed, even while that wealth is actively used to fund lifestyle spending through margin loans, hedges, and entity structures. This framework bridges the gap between legal realization and practical economic use by pricing the privilege of deferring asset realization over long horizons. 
 
-## Is this a wealth tax?
+### Is this a wealth tax?
 
-No.
+No. A wealth tax applies solely because assets exist. This framework applies because a realization event is deferred over time while economic power is actively retained. Ownership alone never triggers this tax; conscious deferral choices do. 
 
-A wealth tax applies solely because assets exist. This framework applies because realization is deferred over time while economic power is retained.
+### Does this tax unrealized gains?
 
-Ownership alone does not trigger tax. Deferral choices do.
+No tax is imposed on unrealized gains themselves. The Deferral Cost Charge (DCC) is a time-based surcharge on continued deferral, not a substitute for capital gains tax. Capital gains tax remains imposed exclusively upon final realization events under existing law. 
 
----
+### Is deferral still allowed?
 
-## Does this tax unrealized gains?
+Yes. Deferral remains fully permitted. What changes is that deferral is no longer free. Short- and medium-term deferral (Years 1–5) remains unburdened, while very long-term deferral becomes progressively more costly. 
 
-No tax is imposed on unrealized gains themselves.
+### Why does deferral become more expensive over time?
 
-The Deferral Cost Charge (DCC) is a time-based charge on continued deferral, not a substitute for capital gains tax. Capital gains tax is still imposed only upon realization, under existing law.
+Because perpetual, generation-skipping deferral creates an permanent public subsidy for elite fortunes. The framework is engineered to preserve investment flexibility, maintain realization as the organizing principle, and eliminate lifetime avoidance strategies. The progressive multiplier scale is the enforcement mechanism against asset stagnation. 
 
----
+### Does this force people to sell assets?
 
-## Is deferral still allowed?
+No. There are no forced sales. Taxpayers always retain the choice to continue holding assets and absorb the annual deferral surcharge, or to realize gains, inject capital velocity into the economy, and reset their asset-specific deferral clock to zero. 
 
-Yes. Deferral remains fully permitted.
+### How does the credit upon realization work?
 
-What changes is that deferral is no longer free. It is priced lightly at first and more heavily over time.
+The Deferral Cost Charge functions as a timing charge, not a second layer of tax. When an asset is ultimately realized, capital gains tax is calculated under progressive brackets, and a credit is allowed for prior DCC payments, subject to a legally mandated declining schedule. 
 
-Short- and medium-term deferral remains inexpensive. Very long-term deferral becomes progressively more costly.
+### Why does the credit decline over time?
 
----
+To distinguish between ordinary long-term investment holding periods and perpetual tax avoidance. The framework offers a 100 percent credit for assets realized within the first 5 years. Between Years 6 and 14, the credit eligibility drops by 10 percent annually. By Year 15 and beyond, the credit reaches 0 percent, ensuring long-term hoarding bears a real economic cost. 
 
-## Why does deferral become more expensive over time?
+### Is this punitive after many years?
 
-Because indefinite deferral creates a permanent tax subsidy.
+After very long periods, the uncredited cost becomes high. This is intentional. The system is generous for the first decade and strict only when a taxpayer seeks to retain immense economic power indefinitely without ever facing a tax event. Lifetime deferral is no longer subsidized by the working public. 
 
-The framework is designed to preserve flexibility, maintain realization as the organizing principle, and eliminate lifetime avoidance strategies. The increasing cost is the enforcement mechanism.
+### How does borrowing fit into this?
 
----
+Borrowing is not treated as income. However, under *Borrowing Neutrality* principles, loans that function as a direct substitute for realization—where highly appreciated assets are pledged to extract lifestyle liquidity—are treated as **Deemed Realization Events** if they exceed $1M or 10% of appreciation. This halts the conversion of unrealized gains into tax-free consumption while fully preserving legitimate trade-or-business financing. 
 
-## Does this force people to sell assets?
+### What about illiquid assets like land or private businesses?
 
-No.
+Illiquid assets can continue to be held indefinitely. The framework does not require sale or liquidation; it simply prices the duration of the deferral. It includes annual valuation averaging, safe-harbor valuation bands (EBITDA/revenue multiples), and installment payment relief, making it significantly less disruptive than wealth taxes or mark-to-market regimes. 
 
-There are no forced sales. Taxpayers always retain the choice to continue holding assets and pay the deferral charge, or to realize gains and reset the deferral clock.
+### Isn’t this too complex to administer?
 
----
+The complexity already exists—it is currently managed privately through custom trust architectures, shell entities, and Wall Street derivative engineering. This framework simply makes that complexity visible, standardized, and priceable. Furthermore, because it relies on existing IRS estate and gift valuation standards, it avoids creating a bloated, parallel enforcement apparatus. 
 
-## How does the credit upon realization work?
+### Who does this apply to?
 
-Deferral Cost Charges are intended as a timing charge, not a second layer of tax.
+Only ultra-high-net-worth households meeting strict thresholds: an aggregated net worth exceeding $20 million or sustained annual adjusted gross income over $5 million. Ordinary wage earners, middle-class families, and typical retirement investors are entirely unaffected. 
 
-When an asset is realized, capital gains tax is calculated under existing law, and a credit is allowed for prior DCC payments, subject to a declining credit schedule.
+### Why not just raise capital gains taxes?
 
-Early realization receives substantial or full credit. Very long-term deferral receives little or no credit.
+Raising flat rates alone increases the "lock-in effect" and fails to address indefinite deferral or borrowing against appreciation. This framework targets *when* tax is recognized and *how long* capital is hoarded, not just how much is paid at an arbitrary finish line. 
 
----
+### What is the core principle behind this framework?
 
-## Why does the credit decline over time?
-
-To distinguish between ordinary long-term investment and perpetual deferral.
-
-The declining credit ensures that short-term deferral is treated as timing, while very long-term deferral bears a real economic cost.
-
----
-
-## Is this punitive after many years?
-
-After very long periods, the cost can become high. This is intentional.
-
-The system is generous for many years and strict only when someone seeks to retain economic power indefinitely without realization. Lifetime deferral is no longer subsidized.
-
----
-
-## How does borrowing fit into this?
-
-Borrowing is not treated as income.
-
-However, borrowing that functions as a substitute for realization—where appreciated assets are pledged to extract personal purchasing power—is treated consistently with realization.
-
-This prevents conversion of unrealized gains into tax-free consumption while preserving legitimate business borrowing.
-
----
-
-## What about illiquid assets like land or private businesses?
-
-Illiquid assets can continue to be held indefinitely.
-
-The framework does not require sale or liquidation. It simply prices long-term deferral. This is less disruptive than wealth taxes or mark-to-market regimes, which force valuation and liquidity regardless of use.
-
----
-
-## Isn’t this too complex to administer?
-
-The complexity already exists—it is currently managed privately through trusts, entities, and financial engineering.
-
-This framework makes that complexity visible, consistent, and priceable. Imperfect valuation affects timing charges, not confiscation, and errors amortize over time.
-
----
-
-## Who does this apply to?
-
-Only households above high thresholds (e.g., $20 million net worth or $5 million sustained income). Ordinary income earners and typical investors are unaffected.
-
----
-
-## Why not just raise capital gains taxes?
-
-Raising rates alone does not address indefinite deferral or borrowing against appreciation.
-
-This framework targets when tax is paid, not just how much.
-
----
-
-## What is the core principle behind this framework?
-
-Deferral is priced, not prohibited.
-Ownership is respected.
-Lifetime avoidance is not subsidized.
+* Deferral is priced, not prohibited.
+* Private ownership is respected.
+* Lifetime tax avoidance is no longer subsidized.
