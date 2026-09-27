@@ -166,7 +166,9 @@ Upon the sale or other Realization Event of a Covered Asset:
 (2) The taxpayer shall be allowed a credit against the tax attributable to such gain equal to the applicable portion of cumulative Deferral Cost Charges previously paid with respect to such asset, as determined under Section 2.4.1.
 
 2.4.1 Credit Percentage (Framework Design)
-Deferral Cost Charges are intended to function as a timing charge, not as an additional layer of tax. Accordingly, the portion of cumulative Deferral Cost Charges eligible for credit upon realization shall decline based on the number of taxable years the asset was subject to DCC, as follows:
+Deferral Cost Charges are intended to function as a timing charge, not as an additional layer of tax. For the avoidance of doubt, the Deferral Cost Charge is imposed annually beginning in the first taxable year an asset is subject to this Framework. The credit schedule below determines the portion of those charges that may be credited against tax upon realization; it does not defer the imposition of the charge itself.
+
+Accordingly, the portion of cumulative Deferral Cost Charges eligible for credit upon realization shall decline based on the number of taxable years the asset was subject to DCC, as follows:
 
 Years Subject to DCC — Credit Percentage  
 1–5: 100 percent  
