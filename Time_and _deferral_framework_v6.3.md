@@ -454,9 +454,11 @@ The Framework is designed to complement, not replace, existing capital gains tax
 Nothing in this Framework alters statutory capital gains rates, holding period rules, or character determinations, except as specifically provided.
 
 7.3 Coordination With Estate and Gift Tax
-The Framework assumes coordination with estate and gift tax provisions to prevent the elimination of Covered Unrealized Appreciation solely through transfer, inheritance, or step-up in basis at death.
+The Framework coordinates with estate and gift tax provisions to ensure that changes in ownership by reason of death, inheritance, or gift do not reset Deferral Duration or eliminate accrued Deferral Cost Charges.
 
-Changes in ownership by reason of death, inheritance, or gift shall not, by themselves, reset Deferral Duration or eliminate accrued Deferral Cost Charges, except as expressly provided by implementing legislation.
+The step-up in basis at death is unchanged by this Framework. Estate and gift tax law continues to apply as under existing law. What continues under this Framework is the deferral clock and any unpaid charge attributable to the asset.
+
+Changes in ownership by reason of death, inheritance, or gift shall not, by themselves, constitute Realization Events, reset Deferral Duration, or eliminate accrued Deferral Cost Charges, except as expressly provided by implementing legislation.
 
 7.4 Coordination With Trust Taxation
 The Framework is intended to coordinate with existing trust taxation regimes, including grantor and non-grantor trust rules. Aggregation and look-through principles under Section 4 shall apply in determining Covered Taxpayer status, Covered Unrealized Appreciation, and Borrowing Neutrality implications involving trusts.
