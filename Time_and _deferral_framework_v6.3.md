@@ -528,22 +528,47 @@ The use of intermediaries, conduits, or nominal parties shall not prevent applic
 9.6 Coordination With Existing Anti-Abuse Doctrines
 The Framework is intended to operate consistently with existing judicial and statutory anti-abuse doctrines, including economic substance rules, sham transaction doctrine, and related-party attribution principles. Nothing in this Section is intended to limit broader anti-abuse authority under existing law.
 
-9.7 Borrowing Character Test and Misclassification Penalties
-Borrowing secured by appreciated assets is not inherently abusive and remains neutral where used to support the productive operation of the collateral. Borrowing becomes realization-relevant only to the extent that proceeds are used to extract economic value unrelated to the collateral’s operating activity.
+9.7.1 General Principle
+Borrowing secured by appreciated assets is not inherently abusive and remains neutral where used to support genuine business operations, productive investment, or the acquisition of operating businesses. Borrowing becomes realization-relevant only to the extent that proceeds are used to extract economic value for personal benefit unrelated to the productive deployment of capital.
 
-Where borrowing functions as a substitute for realization, accessed appreciation shall be treated under applicable Deferral Cost Charge or Deemed Realization provisions to prevent indefinite deferral from functioning as a permanent substitute for taxation.
+9.7.2 Operating Borrowing Safe Harbor
+Borrowing shall be presumed to be operating borrowing—and therefore not a realization-equivalent event—where proceeds are deployed for:
 
-Borrowing shall be presumed extractive where proceeds fund:
+(1) Acquisition of an operating business or controlling interest in an operating business, whether or not related to the collateral’s existing line of business;
+(2) Capital investment in, or expansion of, an existing trade or business;
+(3) Working capital, payroll, research and development, or other ordinary and necessary business expenses;
+(4) Refinancing of existing operating borrowing on substantially similar terms; or
+(5) Any combination of the foregoing, provided such deployment is documented contemporaneously.
 
-(1) Personal consumption;  
-(2) Acquisition of unrelated assets or entities;  
-(3) Control transactions;  
-(4) Portfolio or lifestyle leverage; or  
-(5) Non-amortizing or indefinitely rolled borrowing arrangements primarily designed to sustain liquidity without realization.
+For the avoidance of doubt, the acquisition of an operating business through debt secured by appreciated assets—including where the acquired business is in a different industry than the collateral—shall not, by itself, constitute extractive borrowing. The relevant inquiry is whether the proceeds are deployed into productive enterprise rather than consumed.
 
+9.7.3 Extractive Borrowing Presumption
+Borrowing shall be presumed extractive, and therefore realization-relevant, where proceeds fund:
+
+(1) Personal consumption, including lifestyle expenditures, luxury goods, personal travel, or private residences not used in a trade or business;
+(2) Distribution of cash or assets to owners or related parties outside the ordinary course of business;
+(3) Acquisition of passive investment assets unrelated to any operating business of the taxpayer, including marketable securities, art, or collectibles held primarily for personal enjoyment or speculative appreciation;
+(4) Non-amortizing or indefinitely rolled borrowing arrangements primarily designed to sustain personal liquidity without realization; or
+(5) Any arrangement lacking a bona fide business purpose other than tax deferral.
+
+9.7.4 Rebuttal of Extractive Presumption
+A taxpayer may rebut the extractive presumption by demonstrating that proceeds characterized under Section 9.7.3 were in fact deployed for operating purposes within a reasonable time. Factors supporting rebuttal include:
+
+(1) Contemporaneous business plans, board resolutions, or investment committee approvals documenting productive deployment;
+(2) Actual deployment of proceeds into an operating business within 12 months of borrowing;
+(3) Retention of proceeds in a segregated account pending deployment; or
+(4) Other facts and circumstances demonstrating that the borrowing served a genuine business purpose.
+
+9.7.5 Treatment of Extractive Borrowing
+Where borrowing functions as a substitute for realization, accessed appreciation shall be treated under applicable Deferral Cost Charge or Deemed Realization provisions to prevent indefinite deferral from functioning as a permanent substitute for taxation. The amount treated as realized shall not exceed the portion of proceeds attributable to extractive use.
+
+9.7.6 Misclassification Penalties
 Misclassification of extractive borrowing as operating borrowing shall result in retroactive recharacterization to the original borrowing date, application of enhanced Deferral Cost Charges where appropriate, penalty surcharges sufficient to eliminate any economic benefit from misclassification, and potential limitation or temporary suspension of eligibility for safe harbor treatment.
 
 Penalties under this subsection are intended to deter deliberate misclassification and advisory-driven gaming, while preserving legitimate operating borrowing used in productive business activity.
+
+9.7.7 Documentation and Reporting
+Covered Taxpayers claiming operating borrowing treatment under Section 9.7.2 shall maintain contemporaneous documentation sufficient to substantiate the business purpose and actual deployment of proceeds. Such documentation shall be provided upon request in connection with any examination or audit.
 
 
 
