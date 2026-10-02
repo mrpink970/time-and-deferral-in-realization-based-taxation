@@ -123,14 +123,10 @@ A household shall be treated as a Covered Taxpayer for a taxable year if one or 
 
 (B) Income Test.—The household's adjusted gross income exceeds $5,000,000 (indexed) for the taxable year, provided such income level reflects sustained or recurring income as defined in Section 0.15 and is not attributable solely to a single, non-recurring spike.
 
-Isolated or non-recurring income spikes, standing alone, do not permanently subject a household to Covered Taxpayer status.
-
 All terms used in this Section have the meanings set forth in Section 0 (Definitions) and Section 4 (Aggregation and Look-Through).
 
 
-
 SECTION 2 — DEFERRAL COST CHARGE
-
 2.1 Imposition of Charge
 Each taxable year, a Covered Taxpayer shall be subject to an annual Deferral Cost Charge (DCC) with respect to Covered Unrealized Appreciation (CUA) held during such year. The Deferral Cost Charge shall apply without requiring the sale, disposition, or other realization event. The Deferral Cost Charge is imposed on the continued deferral of recognition and the economic access to appreciation, and not on asset ownership as such.
 
