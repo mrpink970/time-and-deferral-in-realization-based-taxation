@@ -220,7 +220,7 @@ For purposes of this Section:
 2.8 Regulations
 A legislative implementation would prescribe such regulations as are necessary to carry out the purposes of this Framework, including regulations relating to valuation methods, aggregation, credit tracking, reporting, and enforcement.
 
-For avoidance of doubt, changes in ownership by reason of death, inheritance, or succession do not, by themselves, constitute Realization Events, reset Deferral Duration, or otherwise alter the application of Deferral Cost Charges, except as expressly provided under this Framework.
+Death, Inheritance, and Succession. For avoidance of doubt, changes in ownership by reason of death, inheritance, or succession do not, by themselves, constitute Realization Events, reset Deferral Duration, or otherwise alter the application of Deferral Cost Charges, except as expressly provided under this Framework. The treatment of step-up in basis, continuation of the deferral clock, and accrued but unpaid Deferral Cost Charges upon death, inheritance, or succession is governed by Section 7.3.
 
 2.9 Retirement Accounts
 
@@ -512,11 +512,17 @@ The Framework is designed to complement, not replace, existing capital gains tax
 Nothing in this Framework alters statutory capital gains rates, holding period rules, or character determinations, except as specifically provided.
 
 7.3 Coordination With Estate and Gift Tax
-The Framework coordinates with estate and gift tax provisions to ensure that changes in ownership by reason of death, inheritance, or gift do not reset Deferral Duration or eliminate accrued Deferral Cost Charges.
+The step-up in basis at death is unchanged by this Framework. Estate and gift tax law continues to apply as under existing law.
 
-The step-up in basis at death is unchanged by this Framework. Estate and gift tax law continues to apply as under existing law. What continues under this Framework is the deferral clock and any unpaid charge attributable to the asset.
+Effect of Step-Up. Upon the death of a Covered Taxpayer, the adjusted basis of Covered Assets held by the decedent shall be stepped up to fair market value under otherwise applicable provisions of law. Pre-death appreciation eliminated by such step-up shall not be included in Covered Unrealized Appreciation for periods after death.
 
-Changes in ownership by reason of death, inheritance, or gift shall not, by themselves, constitute Realization Events, reset Deferral Duration, or eliminate accrued Deferral Cost Charges, except as expressly provided by implementing legislation.
+Continuation of Deferral Clock. The Deferral Duration applicable to a Covered Asset shall not reset by reason of death, inheritance, or succession. The deferral clock shall continue at its then-current position, and the applicable Time-Weighted Deferral Cost multiplier shall continue at its then-current tier. Post-death appreciation, measured from the stepped-up basis, shall be subject to the Deferral Cost Charge at the applicable multiplier.
+
+Example. If a Covered Taxpayer dies holding a Covered Asset with a Deferral Duration of 20 years, the heir shall be treated as holding the asset with a Deferral Duration of 20 years, and the applicable TWDC multiplier shall be 2.50×. Appreciation accruing after death shall be subject to the Deferral Cost Charge at the 2.50× multiplier. The pre-death appreciation eliminated by the step-up shall not be subject to the Deferral Cost Charge.
+
+No Elimination of Accrued Charges. Changes in ownership by reason of death, inheritance, or gift shall not eliminate any accrued but unpaid Deferral Cost Charges attributable to periods before death, except as expressly provided by implementing legislation.
+
+Regulatory Authority. The Secretary shall prescribe such regulations as are necessary to carry out this Section, including rules for tracking Deferral Duration across generational transfers, coordinating step-up with DCC computation, and preventing abuse.
 
 7.4 Coordination With Trust Taxation
 The Framework is intended to coordinate with existing trust taxation regimes, including grantor and non-grantor trust rules. Aggregation and look-through principles under Section 4 shall apply in determining Covered Taxpayer status, Covered Unrealized Appreciation, and Borrowing Neutrality implications involving trusts.
