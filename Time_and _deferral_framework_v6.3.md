@@ -23,7 +23,10 @@ A Covered Taxpayer means a household that meets the thresholds described in Sect
 Household means the Covered Taxpayer and any individuals whose assets, income, or economic interests are aggregated under the rules set forth in Section 4.
 
 0.3 Covered Asset
+
 A Covered Asset means any asset, interest, or position held directly or indirectly by a Covered Taxpayer. Covered Assets include, without limitation: (a) publicly traded securities; (b) privately held business interests; (c) real estate; (d) partnership or fund interests; and (e) derivative or synthetic positions that substantially replicate economic exposure to appreciation or depreciation of an underlying asset.
+
+Operating Business Limitation. A privately held business interest shall be treated as a Covered Asset only to the extent the Covered Taxpayer obtains personal economic benefit from such interest outside the ordinary course of business. Appreciation attributable to the active conduct of a trade or business, retained earnings, and ordinary business growth shall not be treated as Covered Unrealized Appreciation.
 
 0.4 Covered Unrealized Appreciation (CUA)
 Covered Unrealized Appreciation means, with respect to a Covered Asset, the excess of its fair market value over its adjusted tax basis, determined as of the applicable Measurement Date.
@@ -118,7 +121,16 @@ SECTION 2 — DEFERRAL COST CHARGE
 Each taxable year, a Covered Taxpayer shall be subject to an annual Deferral Cost Charge (DCC) with respect to Covered Unrealized Appreciation (CUA) held during such year. The Deferral Cost Charge shall apply without requiring the sale, disposition, or other realization event. The Deferral Cost Charge is imposed on the continued deferral of recognition and the economic access to appreciation, and not on asset ownership as such.
 
 2.2 Covered Unrealized Appreciation
+
 For purposes of this Framework, Covered Unrealized Appreciation means, with respect to any Covered Asset, the excess of the fair market value of such asset over its adjusted basis, determined as of the close of the taxable year. Covered Unrealized Appreciation shall be determined after application of household aggregation, entity and trust look-through, and valuation standards prescribed under this Framework.
+
+Operating Business Exclusion. In the case of a privately held business interest, Covered Unrealized Appreciation shall not include appreciation attributable to:
+
+(1) Assets used in the active conduct of a trade or business;
+(2) Retained earnings held for reinvestment, expansion, working capital, or reserves;
+(3) Ordinary business growth, where the Covered Taxpayer has not obtained personal economic access to such appreciation outside the ordinary course of business.
+
+Extractive Use. To the extent a Covered Taxpayer obtains personal economic benefit from a privately held business outside the ordinary course of business—including through personal expenses, non-ordinary distributions, extractive borrowing, or realization-equivalent access—the portion of Covered Unrealized Appreciation attributable to such benefit shall be included in Covered Unrealized Appreciation and subject to the Deferral Cost Charge or Borrowing Neutrality, as applicable.
 
 2.3 Rate of Charge (Progressive)
 The annual Deferral Cost Charge is applied to Covered Unrealized Appreciation at the following rates:
@@ -209,6 +221,29 @@ For purposes of this Section:
 A legislative implementation would prescribe such regulations as are necessary to carry out the purposes of this Framework, including regulations relating to valuation methods, aggregation, credit tracking, reporting, and enforcement.
 
 For avoidance of doubt, changes in ownership by reason of death, inheritance, or succession do not, by themselves, constitute Realization Events, reset Deferral Duration, or otherwise alter the application of Deferral Cost Charges, except as expressly provided under this Framework.
+
+2.9 Retirement Accounts
+
+(a) Net Worth Test Inclusion. For purposes of determining Covered Taxpayer status under Section 1.2(A), assets held in a retirement account shall be included in the household's net worth at fair market value.
+
+(b) DCC Exemption. Assets held in a retirement account shall not be treated as Covered Assets for purposes of Covered Unrealized Appreciation or the Deferral Cost Charge.
+
+(c) Definition. A retirement account means a qualified retirement plan under IRC §401(a), an individual retirement account under §408 or §408A, a §403(b) annuity, a governmental §457(b) plan, a defined benefit plan, a cash balance plan, or a comparable statutory retirement arrangement.
+
+(d) Distributions. Distributions from retirement accounts shall be taxed under otherwise applicable law. No credit under Section 2.4 shall be allowed with respect to amounts taxed as ordinary income on distribution.
+
+(e) Existing Law Unchanged. Nothing in this Section shall be construed to exempt retirement accounts from otherwise applicable provisions of the Internal Revenue Code governing loans, pledges, prohibited transactions, deemed distributions, or early withdrawals. Borrowing against, pledging, or using a retirement account as security shall be treated under existing law, and any resulting distribution or disqualification shall be taxed accordingly.
+
+(f) Anti-Abuse. The exemption shall not apply to:
+
+(1) Any arrangement that is not a bona fide statutory retirement plan, including any arrangement that lacks the contribution limits, distribution rules, or fiduciary protections applicable to qualified plans;
+
+(2) Any self-directed arrangement to the extent it holds assets that were transferred from a taxable account of the Covered Taxpayer or an aggregated person without a corresponding taxable realization;
+
+(3) Any arrangement whose principal purpose is to avoid the Deferral Cost Charge or Borrowing Neutrality provisions.
+
+(g) Reporting. Covered Taxpayers shall report aggregate retirement account balances annually. The Secretary shall prescribe regulations to prevent abuse, including coordination with existing retirement plan reporting.
+
 
 
 
@@ -328,6 +363,17 @@ A legislative implementation would prescribe such regulations as are necessary t
 
 Substance-Based Access.—For purposes of this Framework, a trust or entity shall be treated as providing economic access where, based on facts and circumstances, the Covered Taxpayer retains meaningful ability to benefit from, direct, or influence the economic use of the assets.
 
+4.9 Business Substance
+(a) Operating Business. A privately held business shall be treated as an operating business to the extent it is actively engaged in a trade or business, employs capital or labor in the production of income, and maintains books and records consistent with such activity.
+
+(b) No DCC on Operating Activity. Appreciation in the value of an operating business shall not be subject to the Deferral Cost Charge to the extent the Covered Taxpayer has not obtained personal economic benefit from such appreciation outside the ordinary course of business.
+
+(c) Extractive Use. Where a Covered Taxpayer uses a privately held business for personal economic benefit outside the ordinary course of business, the portion of Covered Unrealized Appreciation attributable to such use shall be subject to the Deferral Cost Charge or Borrowing Neutrality, as applicable.
+
+(d) Allocation. Where a business has both operating and extractive uses, Covered Unrealized Appreciation shall be allocated between such uses based on a reasonable method prescribed by regulation, reflecting the relative economic benefit to the Covered Taxpayer.
+
+(e) Anti-Abuse. A business shall not be treated as an operating business where its principal purpose is to hold passive investment assets, personal-use assets, or assets whose economic benefit inures primarily to the Covered Taxpayer outside the ordinary course of business.
+
 
 
 SECTION 5 — VALUATION STANDARDS AND SAFE HARBORS
@@ -371,7 +417,17 @@ For interests in closely held businesses, private equity, venture capital, partn
 A taxpayer may elect to use a qualified independent appraisal not more frequently than once every three taxable years, unless a material event occurs.
 
 5.6 Primary Residence
-For purposes of determining Covered Taxpayer status under Section 1.2, the first $5,000,000 of value attributable to a primary residence shall be excluded from net worth determination. Any value in excess of such amount shall be included and determined in accordance with Section 5.4.
+(a) Net Worth Test Exclusion. For purposes of determining Covered Taxpayer status under Section 1.2(A), the first $5,000,000 (indexed under Section 11) of the fair market value of a primary residence shall be excluded from the household's net worth. Any value in excess of such amount shall be included.
+
+(b) DCC Exemption. The first $5,000,000 (indexed) of fair market value of a primary residence shall not be treated as a Covered Asset for purposes of Covered Unrealized Appreciation or the Deferral Cost Charge.
+
+(c) Excess Above Exemption. Appreciation attributable to value in excess of $5,000,000 shall be included in Covered Unrealized Appreciation and shall be subject to the Deferral Cost Charge on the same terms as any other Covered Asset, without deferral.
+
+(d) Definition. A primary residence means the principal residence of the Covered Taxpayer under IRC §121, including the dwelling, land, and appurtenant structures on the same residential parcel.
+
+(e) One Per Household. The exemption applies to only one residence per household. Any other residential property is a Covered Asset.
+
+(f) No Reset. Transfers, retitling, or restructuring of a primary residence among aggregated persons or entities shall not increase the exempt amount or reset any deferral clock.
 
 This exclusion applies solely to the Covered Taxpayer determination and does not exclude any portion of residential property from Covered Unrealized Appreciation, the Deferral Cost Charge, or any other provision of this Framework once a household is treated as a Covered Taxpayer.
 
