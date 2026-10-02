@@ -61,6 +61,20 @@ A Reasonable Expectation of Financial Benefit exists where, based on facts and c
 0.14 Successor Asset
 A Successor Asset means an asset that replaces or continues a prior asset through restructuring, transfer, exchange, or other transaction in which economic exposure is substantially preserved.
 
+0.15 Sustained or Recurring Income
+Sustained or recurring income means adjusted gross income that exceeds the applicable threshold under Section 1.2(B) when averaged over the taxable year and the two preceding taxable years. If the household has fewer than three taxable years of income history, the average shall be determined over the years available.
+
+Income shall not be treated as sustained or recurring if it is attributable to a single, non-recurring event, including:
+
+(1) A one-time sale or disposition of a business, business interest, or substantial asset;
+(2) An inheritance, gift, or bequest;
+(3) A lottery or gambling win;
+(4) A legal settlement or judgment;
+(5) A one-time bonus, signing payment, or similar non-recurring compensation; or
+(6) Any other income the Secretary determines by regulation to be non-recurring.
+
+Safe Harbor. A household shall not be treated as a Covered Taxpayer under Section 1.2(B) if its average adjusted gross income for the taxable year and the two preceding taxable years does not exceed $5,000,000 (indexed).
+
 
 
 SECTION 0A — VALUATION RULES
@@ -107,7 +121,7 @@ A household shall be treated as a Covered Taxpayer for a taxable year if one or 
 
 (A) Net Worth Test.—The household’s aggregated net worth exceeds $20,000,000 (as indexed under Section 11).
 
-(B) Income Test.—The household’s adjusted gross income exceeds $5,000,000 for the taxable year, provided such income level reflects sustained or recurring income and is not attributable solely to a single, non-recurring spike.
+(B) Income Test.—The household's adjusted gross income exceeds $5,000,000 (indexed) for the taxable year, provided such income level reflects sustained or recurring income as defined in Section 0.15 and is not attributable solely to a single, non-recurring spike.
 
 Isolated or non-recurring income spikes, standing alone, do not permanently subject a household to Covered Taxpayer status.
 
