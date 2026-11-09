@@ -170,14 +170,7 @@ Time-weighted multiplier schedule.—Consecutive years of deferral (per asset):
 | Years 16–20 | 2.00× |
 | 21+ years | 2.50× |
 
-Successor / continuation rule (anti-avoidance).—If an asset is replaced, restructured, or transferred in a manner that preserves substantially similar economic exposure, the deferral clock continues. This includes, without limitation:
-
-• Like-kind exchanges or rollovers with continued exposure  
-• Contributions to controlled entities (including partnerships, trusts, or holding companies)  
-• Asset-for-asset swaps or recapitalizations lacking meaningful economic exit  
-• Derivative overlays or hedged structures designed to defer realization while retaining upside  
-
-The deferral clock resets only where the taxpayer meaningfully exits the economic position.
+**Successor / continuation rule (anti-avoidance).**—If an asset is transferred, restructured, or exchanged in a manner that does *not* trigger a taxable Realization Event (e.g., contributions to trusts, holding companies, or like-kind exchanges), the deferral clock continues. The deferral clock resets to zero only upon a taxable Realization Event where the applicable capital gains tax is paid. If a taxpayer sells an asset, pays the tax, and repurchases the asset or a substantially similar asset, the new asset starts a new deferral duration.
 
 Policy effect.—The TWDC mechanism preserves voluntary realization decisions while preventing perpetual deferral without cost.
 
